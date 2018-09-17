@@ -6,15 +6,11 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="分布式锁" />
-        <module name="注册中心" />
-        <module name="秒杀" />
+        <module name="com" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="分布式锁" target="1.8" />
-      <module name="注册中心" target="1.8" />
-      <module name="秒杀" target="1.8" />
+      <module name="com" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>

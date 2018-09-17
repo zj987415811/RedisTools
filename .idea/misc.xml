@@ -4,6 +4,8 @@
     <option name="originalFiles">
       <list>
         <option value="$PROJECT_DIR$/秒杀/pom.xml" />
+        <option value="$PROJECT_DIR$/分布式锁/pom.xml" />
+        <option value="$PROJECT_DIR$/注册中心/pom.xml" />
       </list>
     </option>
   </component>
